@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "title": "My Second post",
+      "datetime": "March 10, 2023 9:33:46 PM",
+      "body": "The app let us to create a blog with the functionailty to edit it later or to delete it as user wish."
+    },
+    {
+      "id": 6,
+      "title": "Test Context",
+      "datetime": "March 10, 2023 8:25:43 PM",
+      "body": "This post is to test the context used in react app."
+    },
+    {
+      "id": 7,
+      "title": "My First Post",
+      "datetime": "March 10, 2023 8:31:21 PM",
+      "body": "This React app is created by me."
+    }
+  ]
+}
